@@ -73,7 +73,7 @@ The results panel includes:
 - Number of buildings  
 - Total walking distance  
 
-![Alt text](sample_output.jpeg)
+<img src="sample_output.jpeg" alt="Output" width="200">
 
 ---
 
