@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\scheudulereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\scheudulereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\ics104\\desktop\\xacademics-c#\\xacademics\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xacademics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Form1.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.cs [Design]",
+              "RelativeToolTip": "xAcademics\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:45:37.742Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\DistanceCalculator.cs",
+              "RelativeDocumentMoniker": "xAcademics\\DistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\DistanceCalculator.cs",
+              "RelativeToolTip": "xAcademics\\DistanceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:24:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.Designer.cs",
+              "RelativeToolTip": "xAcademics\\Form1.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:12:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Section.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Section.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Section.cs",
+              "RelativeToolTip": "xAcademics\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:45:16.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Form1.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Form1.cs",
+              "RelativeToolTip": "xAcademics\\Form1.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwMAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:53:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Course.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Course.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Course.cs",
+              "RelativeToolTip": "xAcademics\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:17:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Schedule.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Schedule.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Schedule.cs",
+              "RelativeToolTip": "xAcademics\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:43:15.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheuduleReader.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\ScheuduleReader.cs",
+              "RelativeDocumentMoniker": "xAcademics\\ScheuduleReader.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\ScheuduleReader.cs",
+              "RelativeToolTip": "xAcademics\\ScheuduleReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:56:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Building.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Building.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Building.cs",
+              "RelativeToolTip": "xAcademics\\Building.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:28:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Program.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Program.cs",
+              "ToolTip": "C:\\Users\\ics104\\Desktop\\xAcademics-C#\\xAcademics\\Program.cs",
+              "RelativeToolTip": "xAcademics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:59:19.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
